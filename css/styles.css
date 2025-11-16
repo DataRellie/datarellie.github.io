@@ -52,14 +52,14 @@ body {
 }
 
 /* Testimonial Logos */
-.testimonial-logo {
+.trustedby-logo {
     max-height: 80px;
     width: auto;
     /* filter: grayscale(100%); */ /* Removed grayscale filter */
     transition: filter 0.3s ease-in-out;
 }
 
-.testimonial-logo:hover {
+.trustedby-logo:hover {
     filter: grayscale(0%);
 }
 
@@ -82,7 +82,7 @@ body {
 }
 
 @media (max-width: 767.98px) {
-    .testimonial-item {
+    .trustedby-item {
         margin-bottom: 2rem; /* Increased spacing for small screens */
     }
 }
